@@ -5,9 +5,9 @@ The analysis covers key nutritional elements such as calories, carbohydrates, pr
 
 # Key Features:
 
-•	Nutritional Analysis of McDonald's Menu Items. 
-•	Clear Visuals of Nutritional Breakdown by Category.
-•	Highlighting High-Calorie and Nutrient-Rich Foods for Smarter Meal Planning.
-•	Simple and Easy-to-Understand Tables and Charts.
-•	Benefits of Nutritional Analysis for Customers and McDonald's.
-•	Suggestions for Improving McDonald's Menu.
+* In-depth analysis of essential nutrients in McDonald's menu items.
+* Visual breakdowns of nutritional content across different menu categories.
+* Identification of high-calorie and nutrient-dense items to aid in better meal planning.
+* User-friendly charts and tables for enhanced accessibility.
+* Explanation of how this analysis benefits both McDonald's customers and the company.
+* Recommendations for improving the nutritional profile of McDonald's menu.
